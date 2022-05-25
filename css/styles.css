@@ -494,6 +494,10 @@ margin-right: 50px;
     margin-bottom: 9px;
 }
 
+.footer-contacts-item .link:hover, .footer-contacts-item .link:focus {
+    color: var(--accent-text-color);
+}
+
 .footer .container {
     display: flex;
     align-items: baseline;
